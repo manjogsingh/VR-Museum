@@ -16,9 +16,10 @@ A walkthrough of VR influenced games and how gaming industry is gaining populari
 <p><center><img src="Screenshots/Screenshot_20170411-220527.png" width="600"></center></p>
 
 ## Steps to run project
-1. Import Google VR SDK
-2. Clone the repository in working directory
-3. Open VR-Maze-Scene.unity from Scene folder
+1. Update to Unity version 5.6 for video support
+2. Import Google VR SDK
+3. Clone the repository in working directory
+4. Open VR-Maze-Scene.unity from Scene folder
 
 ## Downloads
 * Google VR SDK - [ver 1.30]
