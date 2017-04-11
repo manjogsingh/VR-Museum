@@ -22,7 +22,8 @@ A walkthrough of VR influenced games and how gaming industry is gaining populari
 4. Open VR-Maze-Scene.unity from Scene folder
 
 ## Downloads
-* Google VR SDK - [ver 1.30]
+* Google VR SDK - [ver 1.30](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.30.0)
+* You can download the apk from [here](https://github.com/manjogsingh/VR-Museum/releases/download/v1.0.0/VR-Museum.apk)
 
 ## Author
 **Manjog Singh**
